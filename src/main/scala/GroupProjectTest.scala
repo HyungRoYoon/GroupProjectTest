@@ -6,5 +6,6 @@ object GroupProjectTest {
   def originalFunction() : Unit =
   {
     println("test by Ryan Y")
+    println("additional lines!")
   }
 }
